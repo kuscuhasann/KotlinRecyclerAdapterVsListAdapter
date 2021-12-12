@@ -1,0 +1,2 @@
+# KotlinRecyclerAdapterVsListAdapter
+Kotlin RecyclerAdapter Vs ListAdapter
